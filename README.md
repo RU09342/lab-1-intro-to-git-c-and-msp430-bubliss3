@@ -1,5 +1,6 @@
 # Lab Exercise 1: Introduction to C, Git, and the MSP430
 This lab is meant to be a gentle introduction to working with the code provided over github, adding your own code, C programming, and getting your launchpads to work. The due date for this Lab exercise is the date of submission for the Milestone project.
+Simon Bublis
 
 ## Assignment Blah
 The overall goal of this exercise is to generate a "math.c" and "math.h" file that can eventually be placed into an example UART Calculator code. You will be responsible for generating the function as prototyped in the "math.h" file provided, and include the capability to add, substract, multiply, integer divide, and modulus. This hopefully will be a simple task, and you will not need to worry about getting this specific code to run on your processor.  So what you need to do to complete this is:
@@ -8,7 +9,6 @@ The overall goal of this exercise is to generate a "math.c" and "math.h" file th
 3. Import the assignment files and generate a math.c file from the provided prototype in the corresponding math.h
 4. Upload your code with documentation back to your repository.
 5. Update your README.md files with documentation similar to those found in the assignment files.
-
 
 ## Lab "Report"
 Good news! You do not have to write a lab report on what you do in this lab. Instead, we would rather see you develop your documentation skills so that the code you develop can be used by yourself and others in the future. What this means is that you will have to learn how to write what you are reading right now, a README.md. You are responsible for each set of code (.c and .h file) to generate documentation on the software, its use, and how it works. 
