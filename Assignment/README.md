@@ -2,14 +2,14 @@
 
 The purpose of this project is to get a basic understanding of C by implementing a math function that can perform 5 basic opererations.
 
-## Function
+# Function
 
 The function will take in two int numbers followed by one of the five operator
 
 ```c
 	int math(int num1, int num2, char Operator);
 ```
-## Operations
+# Operations
 
 The 5 operations implemented in the math function include:
 	
@@ -19,7 +19,7 @@ The 5 operations implemented in the math function include:
 	- Division (/)
 	- Modulus (%)
 
-## Code Example
+# Code Example
 
 The math function uses a switch statement to determine the operation to perform on the two numbers and then returning the resultant.
 
@@ -33,7 +33,6 @@ The math function uses a switch statement to determine the operation to perform 
             	break;			// Terminates enclosing switch statement
 ```
 If the users inputs an unknown operator the program will output "Error operator invalid"
-if
 
 ```c
 	default:				//If none of the conditions are met
